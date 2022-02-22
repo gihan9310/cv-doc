@@ -71,3 +71,17 @@
 .size-box{
     height: 50px !important;
 }
+.form-to{
+    margin-left: 10px !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+}
+.working-as{
+    margin-left: 10px !important;
+}
+.unorder-list{
+    margin-left: 25px !important; 
+}
+.used-technolies{
+    margin-top: 5px !important;
+}
