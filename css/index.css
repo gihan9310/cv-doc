@@ -1,0 +1,73 @@
+.main{
+    padding: 30px !important;
+    /* background-color: red; */
+}
+.boader-class{
+    border-left: 2px solid #c2c2c2 !important;
+}
+.img-class{
+    height: 130px !important;
+    border-radius: 40px !important;
+}
+.about-me{
+    /* background-color: #c2c2c2; */
+    text-align: justify !important;
+}
+.skils-section{
+    border-left: 2px solid #046b85 !important;
+    border-width: 5px !important;
+    
+}
+.sub-title{
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+.sub-header{
+    margin-top: 5px !important;
+}
+.skils-name{
+    margin-top: 1px !important;
+    margin-block-start: 1em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 15px !important;
+}
+.sub-header-data{
+    margin-top: 5px !important;
+}
+.project-details{
+    border-left:2px solid #c2c2c2 !important; ;
+}
+.round-dev{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 3px;
+    background-color:  #046b85;
+    margin-left: -10px !important;
+}
+.icon-class{
+    margin-right: 5px !important;
+    margin-top: 4px !important;
+    color:  #046b85;
+}
+.start-point{
+    margin-left: -10px !important;
+}
+
+/* dddddddddddddddd */
+/* .details-row{
+    border-left:2px solid #c2c2c2 !important; ;
+} */
+.chips{
+    background-color: #252222;
+    padding: 8px !important;
+    color: white;
+    font-weight: bold;
+    font-size: 12px !important;
+    margin: 5px !important;
+    border-radius: 10px !important;
+}
+.size-box{
+    height: 50px !important;
+}
