@@ -67,6 +67,7 @@
     font-size: 12px !important;
     margin: 5px !important;
     border-radius: 10px !important;
+    display: inline-block;
 }
 .size-box{
     height: 50px !important;
@@ -101,4 +102,10 @@
 }
 .details-row{
     text-align: justify !important;
+}
+.chips-div{
+    text-align: justify !important;
+}
+.company-div{
+    text-align: right;
 }
